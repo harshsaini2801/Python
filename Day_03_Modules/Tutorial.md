@@ -6,7 +6,7 @@ Module is like a code library which can be used to borrow code written by somebo
 
 ## The pip command
 
-It can be used as a package manager [pip](https://pip.pypa.io/en/stable/) to install a python module.
+It can be used as a package manager [pip](https://packaging.python.org/en/latest/tutorials/installing-packages/) to install a python module.
 Lets install a module called pandas using the following command
 
 ```bash
